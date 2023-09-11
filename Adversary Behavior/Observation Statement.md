@@ -1,0 +1,1 @@
+The default system user `SYSTEM` attempted to run a series of PowerShell commands through the `WmiPrvSE.exe` executable on `CLW206-CEESSIMA`.
