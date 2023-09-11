@@ -1,1 +1,1 @@
-The user `abablee` attempted to open a potentially malicious file, `AutoUpdater.exe`, on this host: `CITELN-33GX0J3`.
+The user `USER` attempted to run a potentially malicious child process, `PROCESS.exe`, on this host: `HOST`.
